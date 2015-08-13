@@ -1,7 +1,9 @@
 # awesome-osx
 A curated list of awesome Mac OS open source projects and libraries. There is no pre-established order of items, they are in order of submission. If you'd like to contribute please read the [guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
 
-## Open Source Mac Apps
+Projects in Swift language will be marked with a :🔶:, feel free to add your project.
+
+# Open Source Mac Apps
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
 - [Messenger for Mac](https://github.com/rsms/fb-mac-messenger) - Mac app wrapping Facebook's Messenger for desktop.
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac.
