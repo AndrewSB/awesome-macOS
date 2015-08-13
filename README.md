@@ -21,7 +21,7 @@ Projects in Swift language will be marked with a :🔶:, feel free to add your p
 - [Hacky for Mac](https://github.com/eliaskg/Hacky) - Hacky for Mac provides browsing Hacker News in a clean and minimalistic way.
 
 # Contributing
-[See the guide](https://github.com/AndrewSB/awesome-oxs/blob/master/CONTRIBUTING.md)
+[See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
 
 # License
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
