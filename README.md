@@ -17,7 +17,7 @@ Projects in Swift language will be marked with a :🔶:, feel free to add your p
 - [Sonora](https://github.com/sonoramac/Sonora) - A minimal, beautifully designed music player for OS X.
 - [Bind](https://github.com/almonk/bind) - A design tool for interfaces.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL database management for Mac OS X.
-- [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail.
+- [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail. 🔶
 - [Hacky for Mac](https://github.com/eliaskg/Hacky) - Hacky for Mac provides browsing Hacker News in a clean and minimalistic way.
 
 # Contributing
