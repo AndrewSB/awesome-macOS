@@ -17,3 +17,14 @@ A curated list of awesome Mac OS open source projects and libraries. There is no
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL database management for Mac OS X.
 - [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail.
 - [Hacky for Mac](https://github.com/eliaskg/Hacky) - Hacky for Mac provides browsing Hacker News in a clean and minimalistic way.
+
+# Contributing
+[See the guide](https://github.com/AndrewSB/awesome-oxs/blob/master/CONTRIBUTING.md)
+
+# License
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+
+To the extent possible under law, [Andrew Breckenridge](http://github.com/AndrewSB) has waived all copyright and related or neighboring rights to this work.
