@@ -1,9 +1,8 @@
 # awesome-osx
-A curated list of awesome OS X open source projects and libraries. There is no pre-established order of items, they are in order of submission. If you'd like to contribute please read the [guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md). If you're working on iOS I'd also recommend checking out [vsouza](https://github.com/vsouza)'s [awesome-ios](https://github.com/vsouza/awesome-ios).
-
-Projects in Swift language will be marked with a 🔶, feel free to add your project.
+A curated list of awesome OS X open source projects and libraries. The items are listed in order of submission. If you'd like to contribute please read the [guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md). If you're working on iOS I'd also recommend checking out [vsouza](https://github.com/vsouza)'s [awesome-ios](https://github.com/vsouza/awesome-ios). Feel free to add your project.
 
 # Open Source OS X Apps
+_Note: 🔶 denotes projects written in Swift._
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
 - [Messenger for Mac](https://github.com/rsms/fb-mac-messenger) - Mac app wrapping Facebook's Messenger for desktop.
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac.
