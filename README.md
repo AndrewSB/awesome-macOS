@@ -1,8 +1,14 @@
 # awesome-osx
-A curated list of awesome OS X open source projects and libraries. The items are listed in order of submission. If you'd like to contribute please read the [guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md). If you're working on iOS I'd also recommend checking out [vsouza](https://github.com/vsouza)'s [awesome-ios](https://github.com/vsouza/awesome-ios). Feel free to add your project.
+A curated list of awesome OS X open source projects and libraries. The items are listed in order of submission. If you'd like to contribute please read the [guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md). If you're working on iOS I'd also recommend checking out [vsouza](https://github.com/vsouza)'s [awesome-ios](https://github.com/vsouza/awesome-ios). Feel free to add your project. 
+
+_Note: 🔶 denotes projects written in Swift._
+
+## Libraries
+
+- [Alamofire](https://github.com/Alamofire/Alamofire) - an elegant HTTP networking library in Swift 🔶
 
 ## Apps
-_Note: 🔶 denotes projects written in Swift._
+
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
 - [Messenger for Mac](https://github.com/rsms/fb-mac-messenger) - Mac app wrapping Facebook's Messenger for desktop.
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac.
@@ -19,9 +25,6 @@ _Note: 🔶 denotes projects written in Swift._
 - [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail. 🔶
 - [Hacky for Mac](https://github.com/eliaskg/Hacky) - Hacky for Mac provides browsing Hacker News in a clean and minimalistic way.
 - [teleport](https://github.com/abyssoft/teleport) - teleport lets you use a single mouse and keyboard to control several Macs.
-
-## Libraries
-- [Alamofire](https://github.com/Alamofire/Alamofire) - an elegant HTTP networking library in Swift 🔶
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
