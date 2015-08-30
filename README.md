@@ -3,12 +3,13 @@ A curated list of awesome OS X open source projects and libraries. The items are
 
 _Note: 🔶 denotes projects written in Swift._
 
-## Libraries
 
-- [Alamofire](https://github.com/Alamofire/Alamofire) - an elegant HTTP networking library in Swift 🔶
+### Libraries
+- [Alamofire](https://github.com/Alamofire/Alamofire) - an elegant HTTP networking library in Swift. 🔶
+- [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for OS X.
+- [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store.
 
-## Apps
-
+### Apps
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
 - [Messenger for Mac](https://github.com/rsms/fb-mac-messenger) - Mac app wrapping Facebook's Messenger for desktop.
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac.
