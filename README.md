@@ -8,6 +8,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [Alamofire](https://github.com/Alamofire/Alamofire) - an elegant HTTP networking library in Swift. 🔶
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for OS X.
 - [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store.
+- [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. 🔶
 
 ### Apps
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
