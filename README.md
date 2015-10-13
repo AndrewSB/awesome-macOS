@@ -9,6 +9,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for OS X.
 - [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store.
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. 🔶
+- [BurntCocoaUI](https://github.com/BurntCaramel/BurntCocoaUI) - Use Swift enums and structs with NSMenu, NSPopUpButton, NSSegmentedControl. 🔶
 
 ### Apps
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
