@@ -28,6 +28,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [gInbox](https://github.com/chenasraf/gInbox) - A Mac wrapper for Inbox by Gmail. 🔶
 - [Hacky for Mac](https://github.com/eliaskg/Hacky) - Hacky for Mac provides browsing Hacker News in a clean and minimalistic way.
 - [teleport](https://github.com/abyssoft/teleport) - teleport lets you use a single mouse and keyboard to control several Macs.
+- [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated tool for website auditing and crawling.
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
