@@ -10,6 +10,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [MASShortcut](https://github.com/shpakovski/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store.
 - [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. 🔶
 - [BurntCocoaUI](https://github.com/BurntCaramel/BurntCocoaUI) - Use Swift enums and structs with NSMenu, NSPopUpButton, NSSegmentedControl. 🔶
+- [Swift Random](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data for swift
 
 ### Apps
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
