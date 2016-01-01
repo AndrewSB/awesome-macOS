@@ -31,6 +31,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [Hacky for Mac](https://github.com/eliaskg/Hacky) - Hacky for Mac provides browsing Hacker News in a clean and minimalistic way.
 - [teleport](https://github.com/abyssoft/teleport) - teleport lets you use a single mouse and keyboard to control several Macs.
 - [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated tool for website auditing and crawling. 🔶
+- [Clocker](https://github.com/Abhishaker17/Clocker) - A menubar utility for keeping track of your friends/colleagues in different timezones.
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
