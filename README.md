@@ -12,6 +12,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [BurntCocoaUI](https://github.com/BurntCaramel/BurntCocoaUI) - Use Swift enums and structs with NSMenu, NSPopUpButton, NSSegmentedControl. 🔶
 - [Swift Random](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data for swift.
 - [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
+- [AudioPlayerSwift](https://github.com/recisio/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage). 🔶
 
 ### Apps
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
