@@ -13,6 +13,8 @@ _Note: 🔶 denotes projects written in Swift._
 - [Swift Random](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data for swift.
 - [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 - [AudioPlayerSwift](https://github.com/recisio/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage). 🔶
+- [VersionTrackerSwift](https://github.com/tbaranes/VersionTrackerSwift) - Track which versions of your app a user has previously installed. 🔶
+- [AdaptiveSpaceItem](https://github.com/recisio/AdaptiveSpaceItem) - A NSToolbarItem which will create space to center the next toolbar item . 🔶
 
 ### Apps
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
