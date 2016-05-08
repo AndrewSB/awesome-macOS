@@ -15,6 +15,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [AudioPlayerSwift](https://github.com/recisio/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage). 🔶
 - [VersionTrackerSwift](https://github.com/tbaranes/VersionTrackerSwift) - Track which versions of your app a user has previously installed. 🔶
 - [AdaptiveSpaceItem](https://github.com/recisio/AdaptiveSpaceItem) - A NSToolbarItem which will create space to center the next toolbar item . 🔶
+- [SwiftyUtils](https://github.com/tbaranes/swiftyutils) - All the reusable code that we need in each project. 🔶
 
 ### Apps
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
