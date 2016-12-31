@@ -16,7 +16,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [VersionTrackerSwift](https://github.com/tbaranes/VersionTrackerSwift) - Track which versions of your app a user has previously installed. 🔶
 - [AdaptiveSpaceItem](https://github.com/recisio/AdaptiveSpaceItem) - A NSToolbarItem which will create space to center the next toolbar item . 🔶
 - [SwiftyUtils](https://github.com/tbaranes/swiftyutils) - All the reusable code that we need in each project. 🔶
-- [SwiftlyExt](https://github.com/khoiln/swiftlyext) - SwiftlyExt is a set of useful extensions for Swift 3 standard classes and types 🔶
+- [SwiftlyExt](https://github.com/khoiln/swiftlyext) - SwiftlyExt is a set of useful extensions for Swift 3 standard classes and types. 🔶
 
 
 ### Apps
