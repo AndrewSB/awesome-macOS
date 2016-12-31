@@ -25,6 +25,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [Color Picker Pro](https://github.com/oscardelben/Color-Picker-Pro) - Color Detection Tool for Designers and Developers.
 - [SketchToolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A plugin manager for Sketch.app.
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
+- [Swift Random](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data for swift
 - [Macdown](https://github.com/uranusjr/macdown) - Open source Markdown editor for OS X.
 - [Radiant Player](https://github.com/kbhomes/radiant-player-mac) - Turn Google Play Music into a separate, beautiful application that integrates with your Mac.
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses.
