@@ -1,5 +1,5 @@
-# awesome-osx
-A curated list of awesome OS X open source projects and libraries. The items are listed in order of submission. If you'd like to contribute please read the [guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md). If you're working on iOS I'd also recommend checking out [vsouza](https://github.com/vsouza)'s [awesome-ios](https://github.com/vsouza/awesome-ios). Feel free to add your projects.
+# awesome-macOS
+A curated list of awesome macOS open source projects and libraries. The items are listed in order of submission. If you'd like to contribute please read the [guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md). If you're working on iOS I'd also recommend checking out [vsouza](https://github.com/vsouza)'s [awesome-ios](https://github.com/vsouza/awesome-ios). Feel free to add your projects.
 
 _Note: 🔶 denotes projects written in Swift._
 
