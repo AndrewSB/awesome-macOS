@@ -38,6 +38,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [teleport](https://github.com/abyssoft/teleport) - teleport lets you use a single mouse and keyboard to control several Macs.
 - [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated tool for website auditing and crawling. 🔶
 - [Clocker](https://github.com/Abhishaker17/Clocker) - A menubar utility for keeping track of your friends/colleagues in different timezones.
+- [2FHey](https://github.com/SoFriendly/2fhey) - iMessage AutoFill For Any Browser. Auto-copy 2FA & OTP codes into Firefox & Google Chrome
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
