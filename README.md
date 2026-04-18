@@ -26,6 +26,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
 - [Color Picker Pro](https://github.com/oscardelben/Color-Picker-Pro) - Color Detection Tool for Designers and Developers.
 - [SketchToolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A plugin manager for Sketch.app.
+- [SnapHotkey](https://snaphotkey.com) - Map keyboard shortcuts directly to Mac apps — one key per app, no Cmd+Tab cycling. ($9.99)
 - [Spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
 - [Macdown](https://github.com/uranusjr/macdown) - Open source Markdown editor for OS X.
 - [Radiant Player](https://github.com/kbhomes/radiant-player-mac) - Turn Google Play Music into a separate, beautiful application that integrates with your Mac.
