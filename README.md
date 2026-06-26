@@ -40,6 +40,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [Clocker](https://github.com/Abhishaker17/Clocker) - A menubar utility for keeping track of your friends/colleagues in different timezones.
 - [2FHey](https://github.com/SoFriendly/2fhey) - iMessage AutoFill For Any Browser. Auto-copy 2FA & OTP codes into Firefox & Google Chrome
 - [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions with live status and auto-resume for selected long-running tasks. 🔶
+- [Pesty](https://github.com/momenbasel/pesty) - A native SwiftUI clipboard manager with a slide-up, color-coded clipboard strip, pinboards, instant search, and keyboard-driven pasting. 🔶
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
