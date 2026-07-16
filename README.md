@@ -39,7 +39,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated tool for website auditing and crawling. 🔶
 - [Clocker](https://github.com/Abhishaker17/Clocker) - A menubar utility for keeping track of your friends/colleagues in different timezones.
 - [2FHey](https://github.com/SoFriendly/2fhey) - iMessage AutoFill For Any Browser. Auto-copy 2FA & OTP codes into Firefox & Google Chrome
-- [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude Code and Codex sessions with live status and auto-resume for selected long-running tasks. 🔶
+- [Agent Island](https://github.com/tristan666666/agent-island) - Native macOS menu bar companion for Claude Code and Codex session status and your-turn alerts. 🔶
 - [Pesty](https://github.com/momenbasel/pesty) - A native SwiftUI clipboard manager with a slide-up, color-coded clipboard strip, pinboards, instant search, and keyboard-driven pasting. 🔶
 
 ## Contributing
