@@ -41,6 +41,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [2FHey](https://github.com/SoFriendly/2fhey) - iMessage AutoFill For Any Browser. Auto-copy 2FA & OTP codes into Firefox & Google Chrome
 - [Agent Island](https://github.com/tristan666666/agent-island) - Native macOS menu bar companion for Claude Code and Codex session status and your-turn alerts. 🔶
 - [Pesty](https://github.com/momenbasel/pesty) - A native SwiftUI clipboard manager with a slide-up, color-coded clipboard strip, pinboards, instant search, and keyboard-driven pasting. 🔶
+- [Core-Monitor](https://github.com/offyotto/Core-Monitor) - Native Apple Silicon system monitor with dashboard and menu bar views, hardware metrics, and optional fan control. :large_orange_diamond:
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
