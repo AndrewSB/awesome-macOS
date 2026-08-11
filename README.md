@@ -39,12 +39,13 @@ _Note: 🔶 denotes projects written in Swift._
 - [Lantern](https://github.com/BurntCaramel/Lantern) - A dedicated tool for website auditing and crawling. 🔶
 - [Clocker](https://github.com/Abhishaker17/Clocker) - A menubar utility for keeping track of your friends/colleagues in different timezones.
 - [2FHey](https://github.com/SoFriendly/2fhey) - iMessage AutoFill For Any Browser. Auto-copy 2FA & OTP codes into Firefox & Google Chrome
-- [Agent Island](https://github.com/tristan666666/agent-island) - Native macOS menu bar companion for Claude Code and Codex session status and your-turn alerts. 🔶
+- [Agent Island](https://github.com/tristan666666/agent-island) - Native menu bar companion for Claude, Codex, Antigravity, and Grok session status, plus provider usage tracking with Cursor support. 🔶
 - [Pesty](https://github.com/momenbasel/pesty) - A native SwiftUI clipboard manager with a slide-up, color-coded clipboard strip, pinboards, instant search, and keyboard-driven pasting. 🔶
 - [Core-Monitor](https://github.com/offyotto/Core-Monitor) - Native Apple Silicon system monitor with dashboard and menu bar views, hardware metrics, and optional fan control. :large_orange_diamond:
 - [Dusty](https://github.com/yagcioglutoprak/dusty) - A free, open-source macOS menu-bar disk cleaner with preview-first, allowlist-based cleanup. :large_orange_diamond:
 - [AI Dictation](https://github.com/writingmate/aidictation) - Native voice-to-text app with a global shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup. :large_orange_diamond:
 - [claude-session-tint](https://github.com/dotcomjack/claude-session-tint) - Tints each Terminal.app window by project and lights up the Claude Code session that finished while you were looking elsewhere.
+- [Nocturne](https://github.com/dotcomjack/nocturne) - Makes the menu bar clock unreadable so it stops telling you how late it is, using one Apple preference key and no private APIs. :large_orange_diamond:
 - [ItsPaint](https://github.com/joshlin2201/itspaint) - MS Paint for the Mac: a free, native paint and screenshot markup app with no network code at all. :large_orange_diamond:
 
 ## Contributing
