@@ -46,6 +46,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [AI Dictation](https://github.com/writingmate/aidictation) - Native voice-to-text app with a global shortcut, offline recognition on supported Macs, and optional cloud transcription and cleanup. :large_orange_diamond:
 - [claude-session-tint](https://github.com/dotcomjack/claude-session-tint) - Tints each Terminal.app window by project and lights up the Claude Code session that finished while you were looking elsewhere.
 - [Nocturne](https://github.com/dotcomjack/nocturne) - Makes the menu bar clock unreadable so it stops telling you how late it is, using one Apple preference key and no private APIs. :large_orange_diamond:
+- [ItsPaint](https://github.com/joshlin2201/itspaint) - MS Paint for the Mac: a free, native paint and screenshot markup app with no network code at all. :large_orange_diamond:
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
