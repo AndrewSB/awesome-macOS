@@ -48,6 +48,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [Nocturne](https://github.com/dotcomjack/nocturne) - Makes the menu bar clock unreadable so it stops telling you how late it is, using one Apple preference key and no private APIs. :large_orange_diamond:
 - [ItsPaint](https://github.com/joshlin2201/itspaint) - MS Paint for the Mac: a free, native paint and screenshot markup app with no network code at all. :large_orange_diamond:
 - [LightTable](https://github.com/reville/lighttable-digital-darkroom) - A digital darkroom and RAW developer with physically modelled film stock simulation, and a GPU render core written in Rust.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
