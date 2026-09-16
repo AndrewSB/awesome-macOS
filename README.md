@@ -49,6 +49,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [ItsPaint](https://github.com/joshlin2201/itspaint) - MS Paint for the Mac: a free, native paint and screenshot markup app with no network code at all. :large_orange_diamond:
 - [LightTable](https://github.com/reville/lighttable-digital-darkroom) - A digital darkroom and RAW developer with physically modelled film stock simulation, and a GPU render core written in Rust.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+- [OmniMac](https://github.com/BySergiMM/OmniMac) - Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu bar app: keep-awake, ⌘Tab by windows, window shortcuts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner. :large_orange_diamond:
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
