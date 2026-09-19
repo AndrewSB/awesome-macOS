@@ -50,6 +50,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [LightTable](https://github.com/reville/lighttable-digital-darkroom) - A digital darkroom and RAW developer with physically modelled film stock simulation, and a GPU render core written in Rust.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [OmniMac](https://github.com/BySergiMM/OmniMac) - Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu bar app: keep-awake, ⌘Tab by windows, window shortcuts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner. :large_orange_diamond:
+- [ApolloShell](https://github.com/Silvertree2010/ApolloShell) - Desktop shell for macOS 26 Tahoe with a sidebar dock, a launcher, a dashboard and a control centre. :large_orange_diamond:
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
