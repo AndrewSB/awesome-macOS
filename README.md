@@ -52,6 +52,7 @@ _Note: 🔶 denotes projects written in Swift._
 - [OmniMac](https://github.com/BySergiMM/OmniMac) - Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu bar app: keep-awake, ⌘Tab by windows, window shortcuts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner. :large_orange_diamond:
 - [Foundry](https://github.com/hridaya423/foundry) - Native launcher with clipboard history, snippets, window layouts, file search and AI chat in one panel. :large_orange_diamond:
 - [Quill](https://github.com/hridaya423/quill) - Markdown editor where Claude Code, Codex or Cursor edits your draft in place, and you keep or revert each change. :large_orange_diamond:
+- [Cue](https://github.com/hridaya423/cue) - Clipboard that reads the focused field and pastes the part of your clip that fits, such as an email address or a phone number. :large_orange_diamond:
 
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
