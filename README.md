@@ -20,9 +20,12 @@ _Note: 🔶 denotes projects written in Swift._
 
 
 ### Apps
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Unified daily productivity heads-up display and menu bar companion. 🔶
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for OS X Yosemite (and Dark Mode).
 - [Messenger for Mac](https://github.com/rsms/fb-mac-messenger) - Mac app wrapping Facebook's Messenger for desktop.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free reading engine for PDF, EPUB, and Markdown with frosted-ice focus backdrop. 🔶
 - [Stockfish](https://github.com/daylen/stockfish-mac) - Beautiful, powerful chess app for the Mac.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Stock ticker in the empty corner beside the Dock. 🔶
 - [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
 - [Color Picker Pro](https://github.com/oscardelben/Color-Picker-Pro) - Color Detection Tool for Designers and Developers.
 - [SketchToolbox](https://github.com/buzzfeed/Sketch-Toolbox) - A plugin manager for Sketch.app.
