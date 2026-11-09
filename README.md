@@ -61,3 +61,6 @@ _Note: 🔶 denotes projects written in Swift._
 </a>
 
 To the extent possible under law, [Andrew Breckenridge](http://github.com/AndrewSB) has waived all copyright and related or neighboring rights to this work.
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Music player companion for the corner beside the Dock.
