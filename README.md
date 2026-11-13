@@ -51,6 +51,8 @@ _Note: 🔶 denotes projects written in Swift._
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [OmniMac](https://github.com/BySergiMM/OmniMac) - Dynamic Island for any Mac (notch or not) plus ten more utilities in one lightweight menu bar app: keep-awake, ⌘Tab by windows, window shortcuts, clipboard history, per-app volume and equaliser, performance monitor, OCR and app cleaner. :large_orange_diamond:
 
+- [vsux](https://github.com/shadowDragons/vsux) - A native Mac lightweight editor that keeps split terminals, files, Git changes, saved commands, and background services together by project. :large_orange_diamond:
+
 ## Contributing
 [See the guide](https://github.com/AndrewSB/awesome-osx/blob/master/CONTRIBUTING.md)
 
